@@ -1,0 +1,3 @@
+[submodule "vim-fanfingtastic"]
+	path = vim-fanfingtastic
+	url = https://github.com/dahu/vim-fanfingtastic.git
